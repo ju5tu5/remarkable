@@ -1,83 +1,82 @@
-# Titel van de presentatie
-
-Dit type presentatie moet op een webserver getoond worden, gelukkig kan je op een mac in de terminal met een simpel commando een webserver starten. Dit werkt als volgt:
-
-1. Start het programma 'terminal'
-2. Navigeer met het commando 'cd' naar de juiste map
-3. Geef het volgende commando om een webserver te starten:
-
-Let op hoofd en kleine letters!
-
-	python -m SimpleHTTPServer
-
-Open nu de URL *http://localhost:8000* in je browser.
-
-Uitroeptekens met witregels er voor en er na scheiden twee dia's van elkaar.
+# remarkable?!
+It's a markdown presentation tool
 
 !
 
-# Er zijn meerdere niveau's
-## koppen. Je kunt op een pagina
-### alle niveau's tegelijk inzetten
-#### maar of dat je presentatie ten 
-##### goede komt...
-
-Koppen worden aangegeven door een of meerdere hekjes # aan het begin van de regel toe te voegen.
+# git + markdown = remarkable
+1. git voor versiebeheer (account en repository aanmaken)
+2. markdown voor documenten (markdown README aanmaken)
+3. remarkable voor presentaties (een HTML presentatie maken)
 
 !
 
-# Opsommingen
-Het is voor markdown lastig om twee verschillende soorten opsommingen op een pagina te onderscheiden. Zet daarom altijd platte tekst tussen een met punten en met getallen aangegeven opsomming.
+# git by Linus Torvalds
 
-- In markdown en HTML zijn twee soorten opsommingen
-- de eerste vorm is een lijst met punten voor aan de regel
-- deze wordt aangegeven met streepjes - aan het begin van de regel
-
-=== Ook tekens gelden als platte tekst (^.^)
-
-1. de tweede vorm is een opsomming met getallen
-2. deze wordt gemarkeerd met getallen en een punt
-3. aan het begin van de tekstregel.
+![branching in git](branching-illustration@2x.png)
+> Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. - git-scm.com
 
 !
 
-![Beschrijving](pic.jpg)
-Afbeeldingen worden automatisch uitgerekt tot de breedte van de dia. Je kunt op hoge resoluties zoomen met de native browser zoom functie (cmd/ctrl +).
+# not only on the command line
+git werkt volledig op de command-line werkt maar er zijn ook een heleboel prettige en minder prettige [GUI's](http://mashable.com/2013/06/24/markdown-tools/ "Mashable - 78 Tools for Writing and Previewing Markdown")
+![git client on mac](gitClient.png)
+
+
 
 !
 
-![Beschrijving](pic.svg)
-De beschrijving van een afbeelding is een verplicht HTML onderdeel, je ziet het in de presentatie verder niet terug. SVG bestanden werken het beste omdat die op elke resolutie scherp getoond worden.
+# another account? (github.com)
+
+![github voorpagina](github.png)
+
+- Download de client voor jouw OS
+- Maak een account aan op github.com
+- Geef als je klaar bent jouw git-username door aan Joost of Justus
 
 !
 
-# Tekstuele zaken
-Je kunt tekst **vet-** of *schuingedrukt* maken door respectievelijk een of twee sterretjes * om een woord heen te zetten.
+# hello world i'm a repository
 
-> Bij citaten begin je de regel met een groter-dan teken >, zolang je geen enter gebruikt loopt het citaat door. Als je meerdere alinea's wilt opnemen zal je opnieuw een groter-dan teken voor de nieuwe alinea moeten gebruiken. Citaten worden automagisch schuingedrukt en ingesprongen.
+![git client](gitClient2.png)
 
-!
-
-# Codevoorbeelden
-
-Code voorbeelden zijn supereenvoudig
-
-	// Een tab aan het begin van de regel is genoeg
-	var whee = function (foo, bar) {
-		console.log([foo, bar].join(' '));
-	}
+- Maak een nieuwe repository aan door op het plusje te klikken (onderin op MacOS, bovenin op Windows)
 
 !
 
-# Links
-Omdat we in een browseromgeving werken kunnen links direct aangeklikt worden, erg handig voor studenten en docenten. Een link neem je op door een [speciale syntax](http://example.com/ "Title") te gebruiken.
+# hello world i'm a repository
 
-[opschrift]
-(http://www.link.com "beschrijving")
+![git client](gitClient3.png)
+
+- Geef een zinnige naam (bv. presentations of workshops) en een korte beschrijving (bv. It's a collection of presentations used for X)
+- Kies een lokale map waar je dit project in wilt aanmaken
+- Laat het vakje 'Push to GitHub?' aangevinkt
+- Gebruik je eigen account (om vervuiling van CMDA/ te voorkomen)
+- Klik vervolgens op 'Create Repository'
 
 !
 
-# Vragen?
-Als je vragen hebt mag je die komen stellen ^^d
+# hello world i'm a repository
 
-ps: Ohja, je kunt snel naar een bepaalde dia springen door het dianummer in te typen, gevolgd door 'Enter'.
+![github repositories](github2.png)
+
+- Controleer op github.com of je repository is aangemaakt
+- Open de zojuist aangemaakte repository door er op te klikken
+
+!
+
+# hello world i'm a repository
+
+![github repository](github3.png)
+
+!
+
+# so much for git :)
+
+!
+
+# how about markdown?
+
+!
+
+# markdown
+> Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML). - daringfireball.net
