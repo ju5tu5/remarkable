@@ -174,18 +174,43 @@ github + markdown = remarkable
 
 # le magique
 
-- Download het bestand index.html van
+!["Luna"](luna.jpg)
 
+- Download het bestand index.html van [https://github.com/ju5tu5/remarkable](https://github.com/ju5tu5/remarkable) en zet het in de repository in dezelfde map als 'presentation.md'
+
+!
 
 # Publiceren op github
 
-# Branching gh-pages
+!["Repository"](repository.png)
+
+- Selecteer de repository (als je dat nog niet gedaan had)
+- Vul een zinnige 'Commit summary' in, 'extended description' mag je leeg laten
+- Selecteer 'Commit & Sync', niet enkel sync (dat doe je als iemand anders aanpassingen heeft gemaakt)
+- Klik op 'Commit & Sync'
+
+!
+
+# de gh-pages branch
+
+!["Branching"](branching.png)
+
+- Klik op het tabblad 'Branches'
+- Klik op het plusje bij de 'master' branch
+- geef als naam 'gh-pages' op (let op: kleine letters)
+- Ga terug naar het tab 'Changes'
+- Vul een zinnige 'Commit summary' in
+- Klik opnieuw op 'Commit & Sync'
+
+!
 
 # Wait 10 mins..
 
     http://jouwnaam.github.io/repositorynaam
 
 Maar je kunt natuurlijk ook een domeinnaam koppelen, als je een domeinnaam onder het domein cmdproject.nl wilt.. let me know
+
+!
 
 # Vragen?
 
