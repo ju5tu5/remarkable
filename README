@@ -1,4 +1,4 @@
 # Remarkable
-It's a markdown presentation tool based on [MarkdownPresenter](https://github.com/chrishulbert/MarkdownPresenter). Nowhere near finished but really usefull as it is.
+It's a markdown presentation tool based on https://github.com/chrishulbert/MarkdownPresenter. Nowhere near finished but really usefull as it is.
 
-Grab the [index file](https://raw.github.com/ju5tu5/remarkable/gh-pages/src/index.html) and put it in the same folder as your presentation.md file.
+Grab the https://raw.github.com/ju5tu5/remarkable/gh-pages/src/index.html and put it in the same folder as your presentation.md file.
