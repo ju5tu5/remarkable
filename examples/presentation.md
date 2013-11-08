@@ -3,7 +3,7 @@ It's a markdown presentation tool
 
 !
 
-# git + markdown = remarkable
+# git(hub) + markdown = remarkable
 1. git voor versiebeheer (account en repository aanmaken)
 2. markdown voor documenten (markdown README aanmaken)
 3. remarkable voor presentaties (een HTML presentatie maken)
@@ -18,7 +18,7 @@ It's a markdown presentation tool
 !
 
 # not only on the command line
-git werkt volledig op de command-line werkt maar er zijn ook een heleboel prettige en minder prettige [GUI's](http://mashable.com/2013/06/24/markdown-tools/ "Mashable - 78 Tools for Writing and Previewing Markdown")
+git werkt volledig op de command-line maar er zijn ook een heleboel prettige en minder prettige GUI's
 ![git client on mac](gitClient.png)
 
 
@@ -78,5 +78,113 @@ git werkt volledig op de command-line werkt maar er zijn ook een heleboel pretti
 
 !
 
-# markdown
+# markdown by John Gruber
+
+    # Header 1
+    ## Header 2
+    ### Header 3
+
+    Dit is een paragraaf, wat neer komt op tekst
+    omringd met witruimte. Tekst kan *italic* en
+    **bold** gemaakt worden.
+
+    [Dit is een link](http://example.com)
+    ![Dit is een afbeelding](afbeelding.png)
+
+    > Citaten zien er uit als geciteerde emails
+    > > En kunnen 'genest' worden!
+
+    - een opsomming
+    - met lijsttekens
+    - is eenvoudig
+
+    1. en een genummerde
+    2. opsomming ook
+
 > Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML). - daringfireball.net
+
+!
+
+# not only on the command line
+Markdown werkt volledig op de command-line maar er zijn ook een heleboel prettige en minder prettige [GUI's](http://mashable.com/2013/06/24/markdown-tools/ "Mashable - 78 Tools for Writing and Previewing Markdown")
+!["Mou editor"](mou.png)
+
+!
+
+# not only on the command line
+Maar elke 'kale tekst'-editor werkt ook fantastisch
+!["Sublime editor"](sublime.png)
+
+!
+
+# no account!
+
+- Download Mou van [mouapp.com](http://mouapp.com) of sublime van [sublimetext.com](http://sublimetext.com)
+- Probeer aan de hand van de cheat-sheet wat voorbeelden uit
+
+!
+
+# so much for markdown :)
+
+!
+
+# how about remarkable?
+
+!
+
+# remarkable van mij ^.^//
+> Remarkable, gebaseerd op [MarkdownPresenter van Chris Hulbert](https://github.com/chrishulbert/MarkdownPresenter), is een tool waarmee je bij het voorbereiden van presentaties bezig kunt zijn met de inhoud in plaats van de vorm. - J.P. Sturkenboom
+
+github + markdown = remarkable
+
+!
+
+# let's get to work
+
+![git client](gitClient2.png)
+
+- Zoek in je Github Client de repository die we hebben aangemaakt
+- Open ook de door jou gekozen Markdown editor
+- Maak een nieuw bestand in de Markdown editor
+- Sla het bestand op in de 'lokale map' die bij je repository hoort, noem het 'presentation.md'
+
+!
+
+# neem de volgende tekst over
+
+    # Hallo wereld
+    Een eerste presentatie in remarkable
+
+    !
+
+    # Vandaag
+    - heb ik geleerd wat git/github zijn
+    - wat Markdown is
+    - hoe ik met remarkable een presentatie maak
+
+    !
+
+    # Vragen?
+
+    Is dit alles? Ja.. dit is alles
+
+- Sla het bestand vervolgens opnieuw op
+
+!
+
+# Downloaden van index.html
+
+# Publiceren op github
+
+# Branching gh-pages
+
+# Wait 10 mins..
+
+    http://jouwnaam.github.io/repositorynaam
+
+Maar je kunt natuurlijk ook een domeinnaam koppelen, als je een domeinnaam onder het domein cmdproject.nl wilt.. let me know
+
+# Vragen?
+
+- Ja.. je kunt het uiterlijk van de presentatie zelf aanpassen.
+- Mocht je besluiten je vak op deze manier te gaan presenteren help ik je graag met het opzetten van de omgeving.
